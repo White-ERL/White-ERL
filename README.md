@@ -1,5 +1,5 @@
 # Hi, I'm Euclide 👋
-
+[![Portfolio](https://img.shields.io/badge/🌐_Check_out_my_Portfolio-b8e04a?style=for-the-badge&logoColor=black)](https://white-erl.github.io/Portfolio/)
 **Process Engineer · ECE Graduate · Quality Systems Specialist**  
 📍 General Trias City, Cavite, Philippines
 
@@ -24,6 +24,7 @@ I'm a versatile engineering professional with a background in **Electronics and 
 ![IATF 16949](https://img.shields.io/badge/IATF_16949-0052CC?style=flat-square)
 ![ISO 17025](https://img.shields.io/badge/ISO_17025-0052CC?style=flat-square)
 ![FMEA](https://img.shields.io/badge/FMEA-2496ED?style=flat-square)
+![Control Plan](https://img.shields.io/badge/Control_Plan-2496ED?style=flat-square)
 ![Control Plan](https://img.shields.io/badge/Control_Plan-2496ED?style=flat-square)
 
 **Problem Solving**  
