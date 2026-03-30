@@ -10,7 +10,7 @@
 
 I'm a versatile engineering professional with a background in **Electronics and Communication Engineering**, formerly working as a Process Engineer at TeamQuest Technology Inc. I specialize in quality systems, ATE programming, and root cause analysis — with hands-on experience in both semiconductor manufacturing and site security surveillance.
 
-- 🔭 Formerly working as a **Process Engineer** at TeamQuest Technology Inc. and **Technican** at Analog Devices Inc.
+- 🔭 Formerly working as a **Process Engineer** at TeamQuest Technology Inc. and **Technician** at Analog Devices Inc.
 - 🎓 BS Electronics & Communication Engineering — National College of Science and Technology
 - 🌱 Always learning and developing new technical skills
 - 💡 Passionate about process improvement, system reliability, and engineering solutions
