@@ -8,9 +8,9 @@
 
 ## About Me
 
-I'm a versatile engineering professional with a background in **Electronics and Communication Engineering**, currently working as a Process Engineer at TeamQuest Technology Inc. I specialize in quality systems, ATE programming, and root cause analysis — with hands-on experience in both semiconductor manufacturing and site security surveillance.
+I'm a versatile engineering professional with a background in **Electronics and Communication Engineering**, formerly working as a Process Engineer at TeamQuest Technology Inc. I specialize in quality systems, ATE programming, and root cause analysis — with hands-on experience in both semiconductor manufacturing and site security surveillance.
 
-- 🔭 Currently working as a **Process Engineer** at TeamQuest Technology Inc.
+- 🔭 Formerly working as a **Process Engineer** at TeamQuest Technology Inc. and **Technican** at Analog Devices Inc.
 - 🎓 BS Electronics & Communication Engineering — National College of Science and Technology
 - 🌱 Always learning and developing new technical skills
 - 💡 Passionate about process improvement, system reliability, and engineering solutions
@@ -56,7 +56,8 @@ Caliper · Micrometer · CMM · VMM · HG · QS · CMI
 
 | Role | Company | Period |
 |------|---------|--------|
-| **Process Engineer** | TeamQuest Technology Inc. — Dasmariñas, Cavite | Oct 2024 – Mar 2026 |
+| **Technician** | Analog Devices Inc. — General Trias, Cavite | Sep 2025 – Mar 2026 |
+| **Process Engineer** | TeamQuest Technology Inc. — Dasmariñas, Cavite | Oct 2024 – Sep 2025 |
 | **CCTV Staff** | Somico Steel Mill Corporation — Trece Martires, Cavite | Feb 2024 – Aug 2024 |
 
 ---
